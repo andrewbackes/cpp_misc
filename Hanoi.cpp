@@ -9,8 +9,6 @@ Move the discs from the left tower to the right tower following these constraint
 
 2) A larger disc can not be placed on top of a smaller disc.
 
-3)
-
 */
 
 #include <iostream>
