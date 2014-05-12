@@ -75,6 +75,6 @@ int main() {
 	print(tower[1]);
 	print(tower[2]);
 
-	system("PAUSE");
+	//system("PAUSE");
 	return (0);
 }
